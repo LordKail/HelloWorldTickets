@@ -5,9 +5,9 @@
 public class HelloWorld {
 
     /*
-    @tckt Extend the Hello World application to take user input.
+    @tckt Extend the Hello World application to take two user inputs.
     @type TASK
-    @priority 5
+    @priority 7
      */
 
     public static void main(String[] args) {
